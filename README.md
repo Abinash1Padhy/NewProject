@@ -1,2 +1,2 @@
 # NewProject
-Hi This is my first edit in Git Project
+Hi This is my first Git Project
